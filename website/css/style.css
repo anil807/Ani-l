@@ -1,0 +1,17 @@
+.home
+{
+  background-image:url(../images/india.jpg) ; 
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 50vh;
+  background-position: center;
+  /* background-position: bottom; */
+ 
+}
+.services-card
+{
+  box-shadow: 2px 2px 2px 2px hsl(276, 83%, 47%) ;
+  height: 200px;
+  border-radius: 5px; 
+  
+}
